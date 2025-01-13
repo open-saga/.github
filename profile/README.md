@@ -9,7 +9,7 @@ Welcome to the **Open Saga** project! This repository is dedicated to collaborat
 Each story follows this directory and file structure:
 
 ```
-.
+https://github.com/open-saga/
 ├── [StoryName]/
 │   ├── [LanguageCode]/
 │   │   ├── STORY.md        # Entire story in a single file
