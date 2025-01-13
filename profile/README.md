@@ -38,6 +38,12 @@ github.com/open-saga/
 
 ## Contribution Rules
 
+### Creating a New Story
+
+- To start a new story, clone the repository `/open-saga/template`.
+- Name the new repository after the story in English.
+- Each story has its own repository within the Open Saga organization.
+
 ### Story Updates
 
 - Stories are stored in a single `STORY.md` file per language.
