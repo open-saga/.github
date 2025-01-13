@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/open-saga/.github/main/profile/logo-256.jpg)
+![open-saga-logo](https://raw.githubusercontent.com/open-saga/.github/main/profile/logo-256.jpg)
 
 # Open Saga
 
